@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+picture {
+    flex-wrap: wrap;
+    display: flex;
+    width: 50vw;
+    height: 90vh;
+}
+
+
+
+.img1 {
+    background-color: violet;
+}
+.img2 {
+    background-color: yellow;
+}
+
+.frame {
+    height: 300px;
+}
+
+.tam1 {
+    width: 200px;
+}
+
+.tam2 {
+    width: 200px;
+}
